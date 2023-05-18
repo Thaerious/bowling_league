@@ -47,10 +47,6 @@ while (!isValid) {
     console.log(isValid);
 }
 
-console.log(round1);
-console.log(round2);
-console.log(isValid);
-
 console.log("ROUND 1");
 const match1 = matchup(round1.teams, LANE_COUNT);
 console.log(match1);
